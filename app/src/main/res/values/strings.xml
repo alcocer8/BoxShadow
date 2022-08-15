@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BoxShadow</string>
+
+    Main Activity
+    <string name="btn_main_insertar">Insertar</string>
+    <string name="btn_main_listar">Listar</string>
+    <string name="btn_main_carrito">Carrito</string>
+
+
+    Insertar Activity
+    <string name="tv_insertar_insertar">Insertar Articulo</string>
+    <string name="et_insertar_id">ID</string>
+    <string name="et_insertar_name">Nombre</string>
+    <string name="et_insertar_price">Precio</string>
+    <string name="et_insertar_quantity">Cantidad</string>
+    <string name="et_insertar_description">Descripcion</string>
+
+    Item Insert
+    <string name="it_insertar_save">Insertar</string>
+
+
+
+</resources>
